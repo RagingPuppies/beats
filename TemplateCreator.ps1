@@ -20,7 +20,7 @@ $tempalte_types = @{
 
 metricbeat  = 'metricbeat-7.10.2.json';
 filebeat    = 'filebeat-7.10.0.json';
-auditbeat   = 'auditbeat-7.10.1.json';
+auditbeat   = 'auditbeat-7.10.0.json';
 winlogbeat  = 'winlogbeat-6.10.1.json';
 
 }
